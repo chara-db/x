@@ -154,7 +154,7 @@ button.button {
 width: 100%;
 }
 
-/* The Close Button */
+/* The Close Button 
 .close {
   color: #aaaaaa;
   font-size: 32px;
@@ -172,6 +172,7 @@ width: 100%;
   text-decoration: none;
   cursor: pointer;
 }
+*/
 
 .chara-info {
   font-size: 15px;
